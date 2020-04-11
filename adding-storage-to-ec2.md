@@ -1,4 +1,4 @@
-# Adding storage to ec2 linux instance
+# Adding storage to an ec2 linux instance
 
 ## (1/3): Increse volume
 
