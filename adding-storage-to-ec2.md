@@ -8,7 +8,7 @@ Select the volume that needs to be increased. Check "attachment informatoin" in 
 
 Actions -> Modify Volume
 
-Increase the volume size. Note that 1 GB-Month costs $1
+Increase the volume size. Note that 10 GB-Months cost $1
 
 ## (2/3): Extend partition
 
