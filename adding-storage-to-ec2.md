@@ -20,7 +20,7 @@ Extend the partition with `sudo growpart /dev/<partition name> 1`
 
 ## (3/3): Extend file system
 
-Run `df -h` and determine the file system name (such as `/dev/nvme0n1p1`). It should be the size of the rezied partition
+Run `df -h` and determine the file system name (such as `/dev/nvme0n1p1`). It should be the size of the previous partition
 
 Run `sudo resize2fs <file system name>`
 
