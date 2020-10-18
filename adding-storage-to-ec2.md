@@ -4,7 +4,7 @@
 
 Visit the EC2 console -> Volumes
 
-Select the volume that needs to be increased. Check "attachment informatoin" in the details pane to determine which one
+Select the volume that needs to be increased. Check "attachment information" in the details pane to determine which one
 
 Actions -> Modify Volume
 
